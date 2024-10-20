@@ -25,10 +25,17 @@ we propose CogChain, a cognitive chain-of-thought (CoT) reasoning framework that
 
 # Citation
 If you find our work useful, please cite our paper.
+
 @inproceedings{
+
 cao2024enhancing,
+
 title={Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning},
+
 author={Yaru Cao, Zhuang Chen, Guanqun Bi, Yulin Feng, Min Chen, Fucheng Wan, Minlie Huang, and Hongzhi Yu},
+
 booktitle={The 13th CCF International Conference on Natural Language Processing and Chinese Computing},
+
 year={2024}
+
 }
